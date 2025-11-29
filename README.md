@@ -2,20 +2,20 @@
 
 Una aplicación completa de lista de tareas construida con React + Vite en el frontend y Express.js en el backend.
 
-## 🚀 Características
+## Características
 
-- ✅ Crear, editar y eliminar tareas
-- ✅ Marcar tareas como completadas
-- ✅ Interfaz moderna y responsive
-- ✅ API RESTful completa
-- ✅ Almacenamiento en memoria
+- Crear, editar y eliminar tareas
+- Marcar tareas como completadas
+- Interfaz moderna y responsive
+- API RESTful completa
+- Almacenamiento en memoria
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Frontend:** React, Vite, ESLint  
 **Backend:** Express.js, CORS, Nodemon
 
-## 📦 Instalación
+## Instalación
 
 ### Backend
 ```bash
@@ -50,14 +50,14 @@ curl -X POST http://localhost:3001/api/tareas \
   -d '{"texto": "Mi nueva tarea"}'
 ```
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - **Tareas iniciales** incluidas como ejemplo
 - **Validación** para evitar tareas vacías
 - **Estado visual** diferenciado para tareas completadas
 - **Logs detallados** en el servidor
 
-## 🔧 Scripts Principales
+## Scripts Principales
 
 **Backend:**
 - `npm start` - Producción
@@ -68,7 +68,7 @@ curl -X POST http://localhost:3001/api/tareas \
 - `npm run build` - Build para producción
 - `npm run lint` - Verificación de código
 
-## 📝 Notas
+## Notas
 
 - Los datos se almacenan en memoria (se pierden al reiniciar)
 - CORS configurado para desarrollo
