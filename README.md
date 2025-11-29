@@ -33,7 +33,7 @@ npm run dev
 ```
 Aplicación en: `http://localhost:5173`
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
